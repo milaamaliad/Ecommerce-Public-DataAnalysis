@@ -32,7 +32,7 @@ with st.sidebar:
     st.title("Milaamaliad")
 
     # Logo Image
-    st.image("logo.png")
+    st.image("https://github.com/milaamaliad/Ecommerce-Public-DataAnalysis/blob/main/dashboard/logo.png")
 
     # Date Range
     start_date, end_date = st.date_input(
