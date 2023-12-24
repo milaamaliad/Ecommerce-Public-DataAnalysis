@@ -7,8 +7,12 @@ conda activate main-ds
 pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 
-## Run steamlit app
+## Run streamlit app
 ```
 streamlit run dashboard.py
+```
+## Streamlit app link url
+```
+[streamlit run dashboard.py](https://ecomerce-public-data-analysis.streamlit.app/)https://ecomerce-public-data-analysis.streamlit.app/
 ```
 
