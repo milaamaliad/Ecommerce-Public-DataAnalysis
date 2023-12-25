@@ -14,13 +14,15 @@
    git clone [https://github.com/milaamaliad/Ecommerce-Public-DataAnalysis.git]
    ```
 2.  Go to the project directory
-```shell
-   cd data-analyst-dicoding
-   ```
-3. Install the required Python packages by running:
-```shell
-   pip install -r requirements.txt
-   ``` 
+
+    ```shell
+       cd data-analyst-dicoding
+       ```
+4.  Install the required Python packages by running:
+
+    ```shell
+       pip install -r requirements.txt
+       ``` 
 3. Lakukan Instalasi Library Dengan Perintah Berikut:
 
     ```shell
